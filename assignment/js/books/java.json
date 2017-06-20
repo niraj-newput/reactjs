@@ -1,0 +1,80 @@
+[
+  {
+"ID":952188491,
+"Title":"Java and Mac OS X",
+
+"Image":"http://s.it-ebooks-api.info/9/java_and_mac_os_x.jpg",
+"isbn":"9780470525111"
+},
+{
+"ID":1529159300,
+"Title":"Expert Oracle and Java Security",
+"SubTitle":"Programming Secure Oracle Database Applications With Java",
+
+"Image":"http://s.it-ebooks-api.info/6/expert_oracle_and_java_security.jpg",
+"isbn":"9781430238317"
+},
+{
+"ID":2477896804,
+"Title":"Pro Java ME Apps",
+"SubTitle":"Building Commercial Quality Java ME Apps",
+
+"Image":"http://s.it-ebooks-api.info/6/pro_java_me_apps.jpg",
+"isbn":"9781430233275"
+},
+{
+"ID":2005343385,
+"Title":"Java 7 Pocket Guide, 2nd Edition",
+"SubTitle":"Instant Help for Java Programmers",
+
+"Image":"http://s.it-ebooks-api.info/3/java_7_pocket_guide_2nd_edition.jpg",
+"isbn":"9781449343569"
+},
+{
+"ID":356796117,
+"Title":"Java 8 Pocket Guide",
+"SubTitle":"Instant Help for Java Programmers",
+
+"Image":"http://s.it-ebooks-api.info/3/java_8_pocket_guide.jpg",
+"isbn":"9781491900864"
+},
+{
+"ID":4195893477,
+"Title":"Java EE 7 with GlassFish 4 Application Server",
+"SubTitle":"A practical guide to install and configure the GlassFish 4 application server and develop Java EE 7 applications to be deployed to this server",
+
+"Image":"http://s.it-ebooks-api.info/14/java_ee_7_with_glassfish_4_application_server.jpg",
+"isbn":"9781782176886"
+},
+{
+"ID":3343145327,
+"Title":"Scala for Java Developers",
+"SubTitle":"Build reactive, scalable applications and integrate Java code with the power of Scala",
+
+"Image":"http://s.it-ebooks-api.info/14/scala_for_java_developers.jpg",
+"isbn":"9781783283637"
+},
+{
+"ID":2276579723,
+"Title":"Functional Programming in Java",
+"SubTitle":"Harnessing the Power Of Java 8 Lambda Expressions",
+
+"Image":"http://s.it-ebooks-api.info/1/functional_programming_in_java.jpg",
+"isbn":"9781937785468"
+},
+{
+"ID":1334237473,
+"Title":"Learn Java for Web Development",
+"SubTitle":"Modern Java Web Development",
+
+"Image":"http://s.it-ebooks-api.info/6/learn_java_for_web_development.jpg",
+"isbn":"9781430259831"
+},
+{
+"ID":128754249,
+"Title":"Java EE 7 Development with WildFly",
+"SubTitle":"Leverage the power of the WildFly application server from JBoss to develop modern Java EE 7 applications",
+"Image":"http://s.it-ebooks-api.info/14/java_ee_7_development_with_wildfly.jpg",
+"isbn":"9781782171980"
+}
+]

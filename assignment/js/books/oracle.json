@@ -1,0 +1,72 @@
+[
+  {
+"ID":2415356056,
+"Title":"Oracle Essentials, 4th Edition",
+"SubTitle":"Oracle Database 11g",
+"Image":"http://s.it-ebooks-api.info/3/oracle_essentials_fourth_edition.jpg",
+"isbn":"9780596514549"
+},
+{
+"ID":3257658374,
+"Title":"Expert Oracle Practices",
+"SubTitle":"Oracle Database Administration from the Oak Table",
+"Image":"http://s.it-ebooks-api.info/6/expert_oracle_practices.jpg",
+"isbn":"9781430226680"
+},
+{
+"ID":3818675298,
+"Title":"Expert Oracle Database Architecture, 2nd Edition",
+"SubTitle":"Oracle Database Programming 9i, 10g, and 11g Techniques and Solutions",
+"Image":"http://s.it-ebooks-api.info/6/expert_oracle_database_architecture_2nd_edition.jpg",
+"isbn":"9781430229469"
+},
+{
+"ID":1529159300,
+"Title":"Expert Oracle and Java Security",
+"SubTitle":"Programming Secure Oracle Database Applications With Java",
+"Image":"http://s.it-ebooks-api.info/6/expert_oracle_and_java_security.jpg",
+"isbn":"9781430238317"
+},
+{
+"ID":3958919785,
+"Title":"Oracle SOA Suite 11g Administrator's Handbook",
+"SubTitle":"Create a reliable, secure, and flexible environment for your Oracle SOA Suite 11g Service Infrastructure and SOA composite applications",
+"Image":"http://s.it-ebooks-api.info/14/oracle_soa_suite_11g_administrators_handbook.jpg",
+"isbn":"9781849686082"
+},
+{
+"ID":4155276372,
+"Title":"Oracle Fusion Middleware Patterns",
+"SubTitle":"10 unique architecture patterns enabled by Oracle Fusion Middleware",
+"Image":"http://s.it-ebooks-api.info/14/oracle_fusion_middleware_patterns.jpg",
+"isbn":"9781847198327"
+},
+{
+"ID":1924546473,
+"Title":"Getting Started with Oracle BPM Suite 11gR1",
+"SubTitle":"Learn from the experts - teach yourself Oracle BPM Suite 11g with an accelerated and hands-on learning path brought to you by Oracle BPM Suite Product Management team members",
+"Image":"http://s.it-ebooks-api.info/14/getting_started_with_oracle_bpm_suite_11gr1.jpg",
+"isbn":"9781849681681"
+},
+{
+"ID":2993816704,
+"Title":"EJB 3.0 Database Persistence with Oracle Fusion Middleware 11g",
+"SubTitle":"A complete guide to EJB 3.0 database persistence with Oracle Fusion Middleware 11g",
+"Image":"http://s.it-ebooks-api.info/14/ejb_3.0_database_persistence_with_oracle_fusion_middleware_11g.jpg",
+"isbn":"9781849681568"
+},
+{
+"ID":737589933,
+"Title":"Oracle 11g Streams Implementer's Guide",
+"SubTitle":"Design, implement, and maintain a distributed environment with Oracle Streams",
+"Image":"http://s.it-ebooks-api.info/14/oracle_11g_streams_implementers_guide.jpg",
+"isbn":"9781847199706"
+},
+{
+"ID":4081370309,
+"Title":"Middleware Management with Oracle Enterprise Manager Grid Control 10g R5",
+"SubTitle":"Monitor, diagnose, and maximize the system performance of Oracle Fusion Middleware solutions",
+"Image":"http://s.it-ebooks-api.info/14/middleware_management_with_oracle_enterprise_manager_grid_control_10g_r5.jpg",
+"isbn":"9781847198341"
+}
+]

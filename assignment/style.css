@@ -1,0 +1,39 @@
+.book-image img {
+  height: 120px;
+}
+
+.btn-section {
+  clear:both;
+}
+
+.footer {
+    background-color: #222222;
+    bottom: 0;
+    height: 25px;
+    left: 0;
+    text-align: center;
+    position: fixed;
+    right: 0;
+}
+
+.list-item {
+  border: 1px solid #DDDDDD;
+  border-radius: 5px;
+  list-style-type: none;
+  margin: 10px 0px;
+  padding: 10px;
+}
+
+
+
+.like-btn {
+  width: 50px;
+}
+.menu {
+  font-size: 25px;
+  margin: 20px;
+  text-align: center;
+}
+.menu li {  
+  margin: 30px 10px;
+}

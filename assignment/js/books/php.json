@@ -1,0 +1,72 @@
+[
+  {
+"ID":2811179651,
+"Title":"PHP Solutions, 3rd Edition",
+"SubTitle":"Dynamic Web Design Made Easy",
+"Image":"http://s.it-ebooks-api.info/6/php_solutions_3rd_edition.jpg",
+"isbn":"9781484206362"
+},
+{
+"ID":3426521078,
+"Title":"PHP: The Good Parts",
+"SubTitle":"Delivering the Best of PHP",
+"Image":"http://s.it-ebooks-api.info/3/php_the_good_parts.jpg",
+"isbn":"9780596804374"
+},
+{
+"ID":427318464,
+"Title":"Pro PHP Application Performance",
+"SubTitle":"Tuning PHP Web Projects for Maximum Performance",
+"Image":"http://s.it-ebooks-api.info/6/pro_php_application_performance.jpg",
+"isbn":"9781430228981"
+},
+{
+"ID":4211610545,
+"Title":"PHP & MySQL: The Missing Manual, 2nd Edition",
+"SubTitle":"The book that should have been in the box",
+"Image":"http://s.it-ebooks-api.info/3/php__mysql_the_missing_manual_2nd_edition.jpg",
+"isbn":"9781449325572"
+},
+{
+"ID":1167030458,
+"Title":"Node.js for PHP Developers",
+"SubTitle":"Porting PHP to Node.js",
+"Image":"http://s.it-ebooks-api.info/3/node.js_for_php_developers.jpg",
+"isbn":"9781449333607"
+},
+{
+"ID":1135257952,
+"Title":"The PHP Anthology, Volume 1",
+"SubTitle":"Object Oriented PHP Solutions",
+"Image":"http://s.it-ebooks-api.info/7/the_php_anthology_volume_1.jpg",
+"isbn":"9780957921856"
+},
+{
+"ID":4171804729,
+"Title":"CodeIgniter for Rapid PHP Application Development",
+"SubTitle":"Improve your PHP coding productivity with the free compact open-source MVC CodeIgniter framework!",
+"Image":"http://s.it-ebooks-api.info/14/codeigniter_for_rapid_php_application_development.jpg",
+"isbn":"9781847191748"
+},
+{
+"ID":590620357,
+"Title":"PHP 5 E-commerce Development",
+"SubTitle":"Create a flexible framework in PHP for a powerful e-commerce solution",
+"Image":"http://s.it-ebooks-api.info/14/php_5_e-commerce_development.jpg",
+"isbn":"9781847199645"
+},
+{
+"ID":3896293091,
+"Title":"Instant Simple Botting with PHP",
+"SubTitle":"Enhance your botting skills and create your own web bots with PHP",
+"Image":"http://s.it-ebooks-api.info/14/instant_simple_botting_with_php.jpg",
+"isbn":"9781782169291"
+},
+{
+"ID":3791959216,
+"Title":"PHP Cookbook, 3rd Edition",
+"SubTitle":"Solutions & Examples for PHP Programmers",
+"Image":"http://s.it-ebooks-api.info/3/php_cookbook_3rd_edition.jpg",
+"isbn":"9781449363758"
+}
+]
